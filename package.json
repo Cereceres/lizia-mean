@@ -1,0 +1,16 @@
+{
+  "name": "lizia-mean",
+  "version": "0.0.1",
+  "description": "k-mean cluster like lizia my shishi!!",
+  "main": "lizia.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "lizia",
+    "k-mean",
+    "cluster"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT"
+}
